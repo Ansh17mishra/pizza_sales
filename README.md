@@ -46,7 +46,7 @@ Power BI is used to create interactive dashboards for visualizing the pizza sale
 ## Home Page Report Dashboard
 ![Home](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/9e557259-2c32-473b-990e-d0fbbc8609e3)
 ## Best/Worst Sellers Report Dashboard
-![best worst](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/0d94de47-9b06-4cae-bb09-6d6e4f79a77e)
+![Best Worst](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/dd09dac4-b91d-445d-baa1-f449f55df4ad)
 ## Conclusion
 Pizza orders and revenue maintains an upward trajectory from the beginning of the week till Sunday and highest on Friday before it starts dropping, this means most people prefer to eat pizza towards and during the weekend. It is advisable to make available tables and chairs to be able to accomodate the influx of the weekend, we can also explore the option of delivery services. Since more orders are received on Fridays, a discount policy can be introduced.There are maximum orders in the month of July and January in a year. Classic Category Contributes to maximum sales & total orders. Large size pizza contributes to maximum sales. The Thai Chicken Pizza contributes to maximum revenue. The The Classic Deluxe Pizza contributes to maximum Total Quantities and Total Orders. The Brie Carre Pizza contributes to minimum revenue & Total Orders.
 
