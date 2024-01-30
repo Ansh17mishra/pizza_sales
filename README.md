@@ -44,7 +44,7 @@ Power BI is used to create interactive dashboards for visualizing the pizza sale
 - **Top-Selling Pizzas**: Identification of top-selling pizzas based on various metrics.
 - **Least-Selling Pizzas**: Identification of least-selling pizzas based on various metrics.
 ## Home Page Report Dashboard
-![home](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/12c03963-0967-4970-8c99-eff3d5cc244f)
+![Home](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/9e557259-2c32-473b-990e-d0fbbc8609e3)
 ## Best/Worst Sellers Report Dashboard
 ![best worst](https://github.com/Ansh17mishra/pizza_sales/assets/158059364/0d94de47-9b06-4cae-bb09-6d6e4f79a77e)
 ## Conclusion
